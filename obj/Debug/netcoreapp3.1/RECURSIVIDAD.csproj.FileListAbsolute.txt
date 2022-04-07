@@ -1,0 +1,4 @@
+C:\Users\Doryo\Desktop\Recursividad_Examen_LuisCarrizales\RECURSIVIDAD\obj\Debug\netcoreapp3.1\RECURSIVIDAD.csprojAssemblyReference.cache
+C:\Users\Doryo\Desktop\Recursividad_Examen_LuisCarrizales\RECURSIVIDAD\obj\Debug\netcoreapp3.1\RECURSIVIDAD.AssemblyInfoInputs.cache
+C:\Users\Doryo\Desktop\Recursividad_Examen_LuisCarrizales\RECURSIVIDAD\obj\Debug\netcoreapp3.1\RECURSIVIDAD.AssemblyInfo.cs
+C:\Users\Doryo\Desktop\Recursividad_Examen_LuisCarrizales\RECURSIVIDAD\obj\Debug\netcoreapp3.1\RECURSIVIDAD.csproj.CoreCompileInputs.cache
